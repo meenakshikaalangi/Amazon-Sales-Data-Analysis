@@ -1,0 +1,6 @@
+## 🐍 Requirements
+- Python
+- pandas
+- matplotlib
+- seaborn
+- jupyter
