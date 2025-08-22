@@ -1,2 +1,2 @@
-# Amazon-Sales-Data-Analysis
+# Supermarket Sales Analysiss
 Data Analysis on Supermarket Sales using Python (Pandas, Matplotlib, Seaborn).
