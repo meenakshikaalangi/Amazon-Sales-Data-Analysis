@@ -15,7 +15,7 @@ The goal is to find customer trends, payment preferences, and product line perfo
 - seaborn
 
 ## 📊 Key Insights
-- Branch **C** has the highest average gross income.
+- Branch **C**(Naypyitaw) has the highest average gross income.
 - Fashion accessories and food/beverages are top-selling categories.
 - Payment methods vary by gender and city.
 - Visualizations (bar plots, pie charts, boxplots, countplots) reveal customer preferences.
